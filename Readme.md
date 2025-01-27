@@ -25,7 +25,8 @@ A full-stack web application that allows users to choose between a **Notificatio
 
 The repository is divided into two main directories: **frontend** and **backend**.
 
-/real-time-communication 
+/real-time-communication
+ 
     ├── /frontend # React and Next.js frontend 
     └── /backend # Node.js and Express.js backend
 
@@ -37,8 +38,8 @@ The repository is divided into two main directories: **frontend** and **backend*
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/real-time-communication.git
- cd real-time-communication
+git clone https://github.com/suyog46/Real-time-communication
+ cd Real-time-communication
 
 
 
